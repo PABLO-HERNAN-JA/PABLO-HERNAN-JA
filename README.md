@@ -33,7 +33,7 @@ const pablo = {
 
 | Proyecto | Descripcion | Stack |
 |----------|-------------|-------|
-| **impablo** | Plataforma SaaS multi-tenant con RBAC, autenticacion y gestion de cuentas | `Supabase` `JS` `PostgreSQL` |
+| **impablo** | Plataforma SaaS multi-tenant con RBAC, autenticacion y gestion de archivos | `Supabase` `JS` `PostgreSQL` |
 | **Barbershop Booking** | Sistema de reservas con portal para dueno, clientes y gestion de citas | `Firebase` `JS` `CSS3` |
 | **AutoAgency Manager** | Gestion para agencia automotriz: inventario, facturacion y tickets | `Supabase` `Node.js` `SQL` |
 | **HR Employee System** | Gestion de empleados, asistencia, aniversarios y organizacion departamental | `MySQL` `JS` `HTML5` |
