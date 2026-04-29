@@ -1,14 +1,131 @@
-<h1 align="center">Hola, soy Pablo</h1>
-<h3 align="center">Me gusta indagar por el mundo a través de lo digital</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=01696F&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Pablo+%F0%9F%91%8B;Full-Stack+%26+Backend+Developer;Cloud+%7C+Security+%7C+Infrastructure;Construyendo+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-hernan-ja&label=Profile%20views&color=0e75b6&style=flat" alt="pablo-hernan-ja" /> </p>
+<h3 align="center">Ingeniero en Desarrollo y Gestión de Software</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/pablo-hernan-ja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pablo-hernan-ja" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pablo-hernan-ja&label=Profile%20views&color=01696f&style=for-the-badge" alt="pablo-hernan-ja" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo-hernan-ja&show_icons=true&locale=en&layout=compact" alt="pablo-hernan-ja" /></p>
+## 👨‍💻 Sobre mí
+
+```javascript
+const pablo = {
+  rol:         "Ingeniero en Desarrollo y Gestión de Software",
+  ubicación:   "México 🇲🇽",
+  enfoque:     ["Backend APIs", "Cloud Infrastructure", "Data Security"],
+  stack:       ["JavaScript", "Node.js", "Cloudflare Workers", "Supabase", "Firebase"],
+  actualmente: "Construyendo plataformas SaaS y herramientas de privacidad de datos",
+  dato_curioso: "Procesé una BD de +147M registros con privacidad total 🔐",
+};
+```
+
+- 🔐 Apasionado por la **seguridad y privacidad de datos**
+- ☁️ Trabajo con **Cloudflare Workers, R2, Supabase y Firebase** en producción
+- 🏗️ Diseño **arquitecturas multi-tenant** con control de acceso basado en roles (RBAC)
+- 📊 Experiencia procesando bases de datos de **+147 millones de registros**
+- 🚀 Siempre construyendo algo nuevo
+
+---
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| 🔐 **AmISafeX** | Verificador de filtraciones de datos con k-anonymity. +147M registros procesados | `CF Workers` `R2` `Node.js` |
+| 🏢 **impablo** | Plataforma SaaS multi-tenant con RBAC, autenticación y gestión de cuentas | `Supabase` `JS` `PostgreSQL` |
+| ✂️ **Barbershop Booking** | Sistema de reservas con portal para dueño, clientes y gestión de citas | `Firebase` `JS` `CSS3` |
+| 🚗 **AutoAgency Manager** | Gestión para agencia automotriz: inventario, facturación y tickets | `Supabase` `Node.js` `SQL` |
+| 👥 **HR Employee System** | Gestión de empleados, asistencia, aniversarios y organización departamental | `MySQL` `JS` `HTML5` |
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="supabase" width="40" height="40" style="filter:invert(1)"/>
+</a>
+<a href="https://workers.cloudflare.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
+<a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablo-hernan-ja&show_icons=true&theme=react&bg_color=0d1117&title_color=01696F&icon_color=01696F&text_color=c9d1d9&border_color=21262d&count_private=true" alt="pablo-hernan-ja stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo-hernan-ja&show_icons=true&locale=en&layout=compact&theme=react&bg_color=0d1117&title_color=01696F&text_color=c9d1d9&border_color=21262d" alt="pablo-hernan-ja top langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pablo-hernan-ja&theme=dark&background=0D1117&border=21262D&stroke=01696F&ring=01696F&fire=F38020&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/pablo-hernán-jasso-aguado" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo linkedin" height="30" width="40" />
+</a>
+<a href="mailto:pablojasso058@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="pablo email" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "El código es poesía — cada línea cuenta una historia"</i>
+</p>
